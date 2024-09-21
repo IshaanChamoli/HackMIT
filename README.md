@@ -1,3 +1,13 @@
+# MediChain
+# Winners of HackMIT 2024 for Best Blockchain
+
+A blockchain-based platform for secure and transparent management of patient data, leveraging decentralized technology to enhance privacy and data integrity.
+
+<img width="1468" alt="Screenshot 2024-09-21 at 4 37 17 PM" src="https://github.com/user-attachments/assets/727d3361-c074-4098-a561-438a97939610">
+
+
+
+<br><br><br>
 # `ptc`
 
 Welcome to your new `ptc` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
